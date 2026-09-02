@@ -1,0 +1,1 @@
+Esta carpeta contiene los recursos de diseño y referencias visuales. NO BORRAR. Está protegida en .gitignore.

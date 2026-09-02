@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <defs>
+    <linearGradient id="chrome" gradientUnits="userSpaceOnUse" x1="0" y1="32" x2="0" y2="80">
+      <stop offset="0%"  stop-color="#ffffff"/>
+      <stop offset="16%" stop-color="#c9cbd1"/>
+      <stop offset="30%" stop-color="#5c5f66"/>
+      <stop offset="46%" stop-color="#eef0f3"/>
+      <stop offset="58%" stop-color="#54565c"/>
+      <stop offset="74%" stop-color="#9a9ca2"/>
+      <stop offset="88%" stop-color="#48494e"/>
+      <stop offset="100%" stop-color="#d8d9dd"/>
+    </linearGradient>
+    <linearGradient id="extrude" gradientUnits="userSpaceOnUse" x1="0" y1="32" x2="0" y2="80">
+      <stop offset="0%" stop-color="#050506"/>
+      <stop offset="100%" stop-color="#414247"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <text x="54" y="79" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="62" fill="url(#extrude)" transform="translate(1.6,2)">M</text>
+    <text x="54" y="79" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="62" fill="url(#extrude)" transform="translate(0.9,1.2)">M</text>
+    <text x="54" y="79" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="62" fill="url(#chrome)" stroke="#0a0a0b" stroke-width="0.6">M</text>
+  </g>
+  <ellipse cx="46" cy="41" rx="30" ry="11" fill="#ffffff" opacity="0.30"/>
+</svg>
