@@ -1,7 +1,37 @@
+# Dependencies
 node_modules/
+.pnpm-debug.log*
+
+# Build outputs
 dist/
 android/app/build/
 ios/App/build/
+android/app/src/main/assets/public/
+ios/App/App/public/
+
+# IDEs and Tools
 .idea/
-*.log
+.vscode/
+*.swp
+*.swo
 .DS_Store
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Design Assets and Reference (Requested to protect)
+Mi CRM Logo/
+micrm_premium_dark/
+
+# Android Specific
+android/local.properties
+android/.gradle/
+android/app/release/
+*.apk
+*.aar
+
+# iOS Specific
+ios/App/Pods/
+ios/App/Podfile.lock
