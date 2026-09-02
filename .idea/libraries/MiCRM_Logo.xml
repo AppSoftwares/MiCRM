@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MiCRM_Logo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Mi CRM Logo/MiCRM_Logo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
